@@ -1,0 +1,27 @@
+{
+  "name": "exchange-telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeabu369/exchange-telebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeabu369/exchange-telebot/issues"
+  },
+  "homepage": "https://github.com/yeabu369/exchange-telebot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
